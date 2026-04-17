@@ -174,6 +174,11 @@ Read-only `GET` requests also benefit from a token to see your own data.
 | 422  | Validation failed              |
 
 ---
+## 📝 Team Members
+Bashar Abu Hawilah  Users module
+Ahmed El Ghul       Posts module
+Moamin Musallam     Todos module
+Salah AL Din        Comments module 
 
 ## 📝 Notes
 
